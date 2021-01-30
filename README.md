@@ -1,7 +1,7 @@
 # SimpleCalculator
 ## Prerequisite
 
-This program uses the PyQt5 library that can be installed by following command.
+This program uses the `PyQt5` library that can be installed by following command.
 
 ```shell
 pip3 install PyQt5
